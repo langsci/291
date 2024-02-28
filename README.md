@@ -1,4 +1,4 @@
-# Constituency and convergence in the Americas % \subtitle{Add subtitle here if it exists} % \lsCoverTitleSizes{51.5pt}{17pt}% Font setting for the title page
+# Constituency and convergence in the Americas  
 ## Publication Info
 - Authors: Adam J.R. Tallman and Sandra Auderset and Hiroto Uchihara
 - Publication Date: not yet published
