@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '09-Martinican.blg'
+[75] biber:340> INFO - === Fri Jul  5, 2024, 19:11:46
+[88] Biber.pm:419> INFO - Reading '09-Martinican.bcf'
+[155] Biber.pm:979> INFO - Found 17 citekeys in bib section 0
+[167] Biber.pm:4419> INFO - Processing section 0
+[176] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[193] bibtex.pm:1713> INFO - LaTeX decoding ...
+[692] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[818] Biber.pm:4610> INFO - Looking for bibtex file '../collection_tmp.bib' for section 0
+[819] bibtex.pm:1713> INFO - LaTeX decoding ...
+[865] bibtex.pm:1519> INFO - Found BibTeX data source '../collection_tmp.bib'
+[898] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[898] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[898] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[898] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[914] bbl.pm:660> INFO - Writing '09-Martinican.bbl' with encoding 'UTF-8'
+[920] bbl.pm:763> INFO - Output to 09-Martinican.bbl

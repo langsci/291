@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '16-Mocovi.blg'
+[105] biber:340> INFO - === Fri Jul 19, 2024, 10:47:35
+[117] Biber.pm:419> INFO - Reading '16-Mocovi.bcf'
+[187] Biber.pm:979> INFO - Found 33 citekeys in bib section 0
+[198] Biber.pm:4419> INFO - Processing section 0
+[207] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[224] bibtex.pm:1713> INFO - LaTeX decoding ...
+[758] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1037] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1037] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1038] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1038] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1066] bbl.pm:660> INFO - Writing '16-Mocovi.bbl' with encoding 'UTF-8'
+[1080] bbl.pm:763> INFO - Output to 16-Mocovi.bbl

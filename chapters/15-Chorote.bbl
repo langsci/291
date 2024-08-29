@@ -1,0 +1,837 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Carol2011b}{article}{}
+      \name{author}{1}{}{%
+        {{hash=edbf74fb6a9850dbdb7c495f37b8ab15}{%
+           family={Carol},
+           familyi={C\bibinitperiod},
+           given={Javier\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{fullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{bibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorbibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authornamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorfullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{LIAMES}
+      \field{title}{Aplicativos/adposiciones en chorote (mataguayo): {A}lgunos aspectos formales}
+      \field{volume}{11}
+      \field{year}{2011}
+      \field{pages}{51\bibrangedash 73}
+      \range{pages}{23}
+    \endentry
+    \entry{Carol2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=edbf74fb6a9850dbdb7c495f37b8ab15}{%
+           family={Carol},
+           familyi={C\bibinitperiod},
+           given={Javier\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{fullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{bibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorbibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authornamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorfullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of American Linguistics}
+      \field{number}{4}
+      \field{title}{Marcación De Argumentos {{En}} El Verbo {{En}} Chorote: {{I}}ntransitividad Escindida {{Y}} Otros Sistemas De Alineamiento}
+      \field{volume}{79}
+      \field{year}{2013}
+      \field{pages}{491\bibrangedash 532}
+      \range{pages}{42}
+    \endentry
+    \entry{Carol2014fon}{article}{}
+      \name{author}{1}{}{%
+        {{hash=edbf74fb6a9850dbdb7c495f37b8ab15}{%
+           family={Carol},
+           familyi={C\bibinitperiod},
+           given={Javier\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{fullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{bibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorbibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authornamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorfullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{LIAMES: Línguas Indígenas Americanas}
+      \field{title}{Esbozo fonológico del chorote (mataguayo)}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{73\bibrangedash 103}
+      \range{pages}{31}
+    \endentry
+    \entry{Carol2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=edbf74fb6a9850dbdb7c495f37b8ab15}{%
+           family={Carol},
+           familyi={C\bibinitperiod},
+           given={Javier\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Munich}%
+      }
+      \list{publisher}{1}{%
+        {LINCOM}%
+      }
+      \strng{namehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{fullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{bibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorbibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authornamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorfullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \field{extraname}{4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{72}
+      \field{series}{Studies in Native American Linguistics}
+      \field{title}{Lengua chorote (mataguayo): {E}studio fonológico y morfosintáctico}
+      \field{year}{2014}
+    \endentry
+    \entry{Carol2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=edbf74fb6a9850dbdb7c495f37b8ab15}{%
+           family={Carol},
+           familyi={C\bibinitperiod},
+           given={Javier\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{fullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{bibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorbibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authornamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorfullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \field{extraname}{5}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistics}
+      \field{number}{4}
+      \field{title}{{{TAM}} marking on nominals in Chorote}
+      \field{volume}{53}
+      \field{year}{2015}
+      \field{pages}{877\bibrangedash 930}
+      \range{pages}{54}
+    \endentry
+    \entry{Carol2018}{book}{}
+      \name{author}{1}{}{%
+        {{hash=edbf74fb6a9850dbdb7c495f37b8ab15}{%
+           family={Carol},
+           familyi={C\bibinitperiod},
+           given={Javier\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Diccionario Bilingüe Manjui -- Castellano. Curupaity}%
+      }
+      \list{publisher}{1}{%
+        {Secretaría de Políticas Lingüísticas}%
+      }
+      \strng{namehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{fullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{bibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorbibnamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authornamehash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \strng{authorfullhash}{edbf74fb6a9850dbdb7c495f37b8ab15}
+      \field{extraname}{6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{spanish}
+      \field{title}{Inamtes Jleeizi' Inkijwas ji'lij -- Kiláyi Ji'lij}
+      \field{year}{2018}
+    \endentry
+    \entry{CarolSalanova2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=edbf74fb6a9850dbdb7c495f37b8ab15}{%
+           family={Carol},
+           familyi={C\bibinitperiod},
+           given={Javier\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{236365a7f0f7d0740cc37d0527a8f32d}
+      \strng{fullhash}{236365a7f0f7d0740cc37d0527a8f32d}
+      \strng{bibnamehash}{236365a7f0f7d0740cc37d0527a8f32d}
+      \strng{authorbibnamehash}{236365a7f0f7d0740cc37d0527a8f32d}
+      \strng{authornamehash}{236365a7f0f7d0740cc37d0527a8f32d}
+      \strng{authorfullhash}{236365a7f0f7d0740cc37d0527a8f32d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cahiers Linguistiques d'Ottawa / Ottawa Papers in Linguistics}
+      \field{title}{On pseudo-applicatives}
+      \field{volume}{37}
+      \field{year}{2012}
+      \field{pages}{22\bibrangedash 42}
+      \range{pages}{21}
+    \endentry
+    \entry{Claesson2016}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1fa621b84364c9a02f020a11e0a6a47a}{%
+           family={Claesson},
+           familyi={C\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{1fa621b84364c9a02f020a11e0a6a47a}
+      \strng{fullhash}{1fa621b84364c9a02f020a11e0a6a47a}
+      \strng{bibnamehash}{1fa621b84364c9a02f020a11e0a6a47a}
+      \strng{authorbibnamehash}{1fa621b84364c9a02f020a11e0a6a47a}
+      \strng{authornamehash}{1fa621b84364c9a02f020a11e0a6a47a}
+      \strng{authorfullhash}{1fa621b84364c9a02f020a11e0a6a47a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Vocabulario `weenhayek-español.}
+      \field{title}{?}
+      \field{year}{2016}
+    \endentry
+    \entry{DGEEC2012}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4b3451053c82d15ef1063c8352bfc790}{%
+           family={Dirección\bibnamedelimb General\bibnamedelimb de\bibnamedelima Estadísticas},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Encuestas\bibnamedelimb y\bibnamedelima Censos},
+           giveni={E\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Asunción}%
+      }
+      \strng{namehash}{4b3451053c82d15ef1063c8352bfc790}
+      \strng{fullhash}{4b3451053c82d15ef1063c8352bfc790}
+      \strng{bibnamehash}{4b3451053c82d15ef1063c8352bfc790}
+      \strng{authorbibnamehash}{4b3451053c82d15ef1063c8352bfc790}
+      \strng{authornamehash}{4b3451053c82d15ef1063c8352bfc790}
+      \strng{authorfullhash}{4b3451053c82d15ef1063c8352bfc790}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{III}er Censo Nacional de Población y Viviendas para Pueblos Indígenas. {{R}}esultados Finales}
+      \field{year}{2012}
+    \endentry
+    \entry{Drayson1999}{book}{}
+      \name{author}{1}{}{%
+        {{hash=be0371b5f9ab0efd6931e35b8f7c103d}{%
+           family={Drayson},
+           familyi={D\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tartagal}%
+      }
+      \list{publisher}{1}{%
+        {ASOCIANA}%
+      }
+      \strng{namehash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \strng{fullhash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \strng{bibnamehash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \strng{authorbibnamehash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \strng{authornamehash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \strng{authorfullhash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ja’yitaja’a na si’lij jla’yi ti jayamtijiena [{V}amos a leer y escribir en {Chorote}]}
+      \field{year}{1999}
+    \endentry
+    \entry{Drayson2009}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=be0371b5f9ab0efd6931e35b8f7c103d}{%
+           family={Drayson},
+           familyi={D\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=15faf0260f675ac573276ec459968f64}{%
+           family={Braunstein},
+           familyi={B\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod}}}%
+        {{hash=34b78f1179c1ec1983dd6338eb83b131}{%
+           family={Messineo},
+           familyi={M\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires \& Las Lomitas}%
+      }
+      \list{publisher}{1}{%
+        {PICT 32894 (ANPCyT), Centro del Hombre Antiguo Chaqueño}%
+      }
+      \strng{namehash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \strng{fullhash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \strng{bibnamehash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \strng{authorbibnamehash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \strng{authornamehash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \strng{authorfullhash}{be0371b5f9ab0efd6931e35b8f7c103d}
+      \strng{editorbibnamehash}{2c603ba499334910f8294c074dd512bb}
+      \strng{editornamehash}{2c603ba499334910f8294c074dd512bb}
+      \strng{editorfullhash}{2c603ba499334910f8294c074dd512bb}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Hacia una nueva carta étnica del Gran Chaco {{VIII}}}
+      \field{title}{'Niwak Samtis. {D}iccionario Iyojwa'ja'Lij -- Kilay'Lij (Chorote- Castellano)}
+      \field{year}{2009}
+      \field{pages}{91\bibrangedash 174}
+      \range{pages}{84}
+    \endentry
+    \entry{DraysonGomez2000}{book}{}
+      \name{author}{3}{}{%
+        {{hash=be0371b5f9ab0efd6931e35b8f7c103d}{%
+           family={Drayson},
+           familyi={D\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=95ad237027ae873627302275d7066a8f}{%
+           family={Frías},
+           familyi={F\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=595502700e9fefc8e35b4113946cd532}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Julián},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tartagal}%
+      }
+      \list{publisher}{1}{%
+        {ASOCIANA}%
+      }
+      \strng{namehash}{216b07e0f861b896cfd1ba7f6e8ee4e2}
+      \strng{fullhash}{a9282de1dae8960cf3386e4e8a2a82bd}
+      \strng{bibnamehash}{a9282de1dae8960cf3386e4e8a2a82bd}
+      \strng{authorbibnamehash}{a9282de1dae8960cf3386e4e8a2a82bd}
+      \strng{authornamehash}{216b07e0f861b896cfd1ba7f6e8ee4e2}
+      \strng{authorfullhash}{a9282de1dae8960cf3386e4e8a2a82bd}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Sake}' iyo ti iyojwa'jats'e'm. {S}omos chorotes -- Nuestras costumbres}
+      \field{year}{2000}
+    \endentry
+    \entry{Gerzenstein1983}{book}{}
+      \name{author}{1}{}{%
+        {{hash=db3e894e0eb9f1ee7d5d9c8a8244c760}{%
+           family={Gerzenstein},
+           familyi={G\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Universidad de Buenos Aires, Facultad de Filosofía y Letras, Instituto de Lingüística}%
+      }
+      \strng{namehash}{db3e894e0eb9f1ee7d5d9c8a8244c760}
+      \strng{fullhash}{db3e894e0eb9f1ee7d5d9c8a8244c760}
+      \strng{bibnamehash}{db3e894e0eb9f1ee7d5d9c8a8244c760}
+      \strng{authorbibnamehash}{db3e894e0eb9f1ee7d5d9c8a8244c760}
+      \strng{authornamehash}{db3e894e0eb9f1ee7d5d9c8a8244c760}
+      \strng{authorfullhash}{db3e894e0eb9f1ee7d5d9c8a8244c760}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{number}{4}
+      \field{series}{Archivo de lenguas precolombinas}
+      \field{title}{Lengua chorote: {{E}}studio descriptivo-comparativo y vocabulario}
+      \field{year}{1983}
+    \endentry
+    \entry{NewTestamentTranslationintoChorote1997}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0949ab373981eaff022a94c5dffc9ace}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=be0371b5f9ab0efd6931e35b8f7c103d}{%
+           family={Drayson},
+           familyi={D\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Buenos Aires}%
+      }
+      \list{publisher}{1}{%
+        {Sociedad Bíblica Argentina}%
+      }
+      \strng{namehash}{391de21c253d65d4421a244a2807e133}
+      \strng{fullhash}{391de21c253d65d4421a244a2807e133}
+      \strng{bibnamehash}{391de21c253d65d4421a244a2807e133}
+      \strng{authorbibnamehash}{391de21c253d65d4421a244a2807e133}
+      \strng{authornamehash}{391de21c253d65d4421a244a2807e133}
+      \strng{authorfullhash}{391de21c253d65d4421a244a2807e133}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sinia' Jlamtis. {{{E}}}l Nuevo Testamento en el idioma iyojwa'ja (chorote)}
+      \field{year}{1997}
+    \endentry
+    \entry{GutierezNercesian2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=80305e695bb8eb1b1fe0224bf4a78d47}{%
+           family={Gutiérrez},
+           familyi={G\bibinitperiod},
+           given={Analía},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b3df1a94d62e4bd5affb4700048bb0cb}{%
+           family={Nercesian},
+           familyi={N\bibinitperiod},
+           given={Verónica},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{24738d2f3c4f3764bcb17c53d2875153}
+      \strng{fullhash}{24738d2f3c4f3764bcb17c53d2875153}
+      \strng{bibnamehash}{24738d2f3c4f3764bcb17c53d2875153}
+      \strng{authorbibnamehash}{24738d2f3c4f3764bcb17c53d2875153}
+      \strng{authornamehash}{24738d2f3c4f3764bcb17c53d2875153}
+      \strng{authorfullhash}{24738d2f3c4f3764bcb17c53d2875153}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Forma y Función}
+      \field{number}{34}
+      \field{title}{{La} glotal y la glotalización en las lenguas mataguayas}
+      \field{volume}{1}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.15446/fyf.v34n1.79328
+      \endverb
+    \endentry
+    \entry{Gutierrez2015}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=80305e695bb8eb1b1fe0224bf4a78d47}{%
+           family={Gutiérrez},
+           familyi={G\bibinitperiod},
+           given={Analía},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of British Columbia}%
+      }
+      \list{location}{1}{%
+        {Vancouver}%
+      }
+      \strng{namehash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \strng{fullhash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \strng{bibnamehash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \strng{authorbibnamehash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \strng{authornamehash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \strng{authorfullhash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Segmental and prosodic complexity in Nivaĉle: {{L}}aryngeals, laterals, and metathesis}
+      \field{type}{phdthesis}
+      \field{year}{2015}
+    \endentry
+    \entry{Gutierrez2016}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=80305e695bb8eb1b1fe0224bf4a78d47}{%
+           family={Gutiérrez},
+           familyi={G\bibinitperiod},
+           given={Analía},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{9}{}{%
+        {{hash=5851d9e776356fc0ed11e8ab07d546d9}{%
+           family={Kyeong\bibnamedelima Min},
+           familyi={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d1d7d82ef4d00b7cfd67b487242d65e6}{%
+           family={Umbal},
+           familyi={U\bibinitperiod},
+           given={Pocholo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0135293b73578c232db1f76828f64f80}{%
+           family={Block},
+           familyi={B\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=575679a246e88ae3b2f5219a4bc03b92}{%
+           family={Queenie},
+           familyi={Q\bibinitperiod},
+           given={Chan},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2e4f3fa03b9f44e1a782987300834f03}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Tanie},
+           giveni={T\bibinitperiod}}}%
+        {{hash=119852bb43314a6cd2e0aca5ae5f6e8e}{%
+           family={Finney},
+           familyi={F\bibinitperiod},
+           given={Kelli},
+           giveni={K\bibinitperiod}}}%
+        {{hash=acfaf89e81d74ebba2ea779ac05322f6}{%
+           family={Katz},
+           familyi={K\bibinitperiod},
+           given={Mara},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6e6b93e7ce1e80d4f30ba01752f297e4}{%
+           family={Nickel\bibnamedelima Thompson},
+           familyi={N\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Sophie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dcc37ad8ef854c064db5661a4cf897e0}{%
+           family={Shorten},
+           familyi={S\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Somerville}%
+      }
+      \list{publisher}{1}{%
+        {Cascadilla Proceedings Project}%
+      }
+      \strng{namehash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \strng{fullhash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \strng{bibnamehash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \strng{authorbibnamehash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \strng{authornamehash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \strng{authorfullhash}{80305e695bb8eb1b1fe0224bf4a78d47}
+      \strng{editorbibnamehash}{30c88a815b2d1226d5b24816f18916a0}
+      \strng{editornamehash}{58dcbf53d625909463590a8ebfa1fe33}
+      \strng{editorfullhash}{30c88a815b2d1226d5b24816f18916a0}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 33rd {{West}} {Coast} {Conference} on {Formal} {Linguistics}}
+      \field{title}{Patterns of (de)glottalization in Nivaĉle}
+      \field{year}{2016}
+      \field{pages}{176\bibrangedash 185}
+      \range{pages}{10}
+    \endentry
+    \entry{INDEC2005}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b3e97a746866eb80cf3c649fd8cae505}{%
+           family={Instituto\bibnamedelimb Nacional\bibnamedelimb de\bibnamedelimb Estadística\bibnamedelimb y\bibnamedelima Censo},
+           familyi={I\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Argentina},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3e97a746866eb80cf3c649fd8cae505}
+      \strng{fullhash}{b3e97a746866eb80cf3c649fd8cae505}
+      \strng{bibnamehash}{b3e97a746866eb80cf3c649fd8cae505}
+      \strng{authorbibnamehash}{b3e97a746866eb80cf3c649fd8cae505}
+      \strng{authornamehash}{b3e97a746866eb80cf3c649fd8cae505}
+      \strng{authorfullhash}{b3e97a746866eb80cf3c649fd8cae505}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Encuesta Complementaria de Pueblos Indígenas ({ECPI})}
+      \field{year}{2005}
+    \endentry
+    \entry{INDEC2012}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b3e97a746866eb80cf3c649fd8cae505}{%
+           family={Instituto\bibnamedelimb Nacional\bibnamedelimb de\bibnamedelimb Estadística\bibnamedelimb y\bibnamedelima Censo},
+           familyi={I\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Argentina},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3e97a746866eb80cf3c649fd8cae505}
+      \strng{fullhash}{b3e97a746866eb80cf3c649fd8cae505}
+      \strng{bibnamehash}{b3e97a746866eb80cf3c649fd8cae505}
+      \strng{authorbibnamehash}{b3e97a746866eb80cf3c649fd8cae505}
+      \strng{authornamehash}{b3e97a746866eb80cf3c649fd8cae505}
+      \strng{authorfullhash}{b3e97a746866eb80cf3c649fd8cae505}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Encuesta Complementaria de Pueblos Indígenas ({ECPI})}
+      \field{year}{2012}
+    \endentry
+    \entry{Launey1994}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fbaddde3a6e6cef893c199bf31745fa6}{%
+           family={Launey},
+           familyi={L\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {CNRS}%
+      }
+      \strng{namehash}{fbaddde3a6e6cef893c199bf31745fa6}
+      \strng{fullhash}{fbaddde3a6e6cef893c199bf31745fa6}
+      \strng{bibnamehash}{fbaddde3a6e6cef893c199bf31745fa6}
+      \strng{authorbibnamehash}{fbaddde3a6e6cef893c199bf31745fa6}
+      \strng{authornamehash}{fbaddde3a6e6cef893c199bf31745fa6}
+      \strng{authorfullhash}{fbaddde3a6e6cef893c199bf31745fa6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Une grammaire omniprédicative}
+      \field{year}{1994}
+    \endentry
+    \entry{Nercesian2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b3df1a94d62e4bd5affb4700048bb0cb}{%
+           family={Nercesian},
+           familyi={N\bibinitperiod},
+           given={Verónica},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Munich}%
+      }
+      \list{publisher}{1}{%
+        {LINCOM}%
+      }
+      \strng{namehash}{b3df1a94d62e4bd5affb4700048bb0cb}
+      \strng{fullhash}{b3df1a94d62e4bd5affb4700048bb0cb}
+      \strng{bibnamehash}{b3df1a94d62e4bd5affb4700048bb0cb}
+      \strng{authorbibnamehash}{b3df1a94d62e4bd5affb4700048bb0cb}
+      \strng{authornamehash}{b3df1a94d62e4bd5affb4700048bb0cb}
+      \strng{authorfullhash}{b3df1a94d62e4bd5affb4700048bb0cb}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{74}
+      \field{series}{Studies in Native American Linguistics}
+      \field{title}{Wichi lhomtes: {{E}}studio de la gramática y la interacción fonología--morfología--sintaxis--semántica}
+      \field{year}{2014}
+    \endentry
+    \entry{NikulinCarolForthcoming}{book}{}
+      \name{author}{2}{}{%
+        {{hash=fd9b20996ba9ec2cbcc32233bf246401}{%
+           family={Nikulin},
+           familyi={N\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+        {{hash=26753a73d6b2f1d2d0aeaa0d27ca2efe}{%
+           family={Carol},
+           familyi={C\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press}%
+      }
+      \strng{namehash}{42e7d8ff7b38b9c7fac07c65a07467ef}
+      \strng{fullhash}{42e7d8ff7b38b9c7fac07c65a07467ef}
+      \strng{bibnamehash}{42e7d8ff7b38b9c7fac07c65a07467ef}
+      \strng{authorbibnamehash}{42e7d8ff7b38b9c7fac07c65a07467ef}
+      \strng{authornamehash}{42e7d8ff7b38b9c7fac07c65a07467ef}
+      \strng{authorfullhash}{42e7d8ff7b38b9c7fac07c65a07467ef}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Topics in Phonological Diversity}
+      \field{title}{{Historical} phonology of {Mataguayan}}
+      \field{year}{Forthcoming}
+    \endentry
+    \entry{Robert2003}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=fd5bc6b7a9446bfee4a8217c7535134d}{%
+           family={Robert},
+           familyi={R\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=fd5bc6b7a9446bfee4a8217c7535134d}{%
+           family={Robert},
+           familyi={R\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Louvain}%
+      }
+      \list{publisher}{1}{%
+        {Peeters}%
+      }
+      \strng{namehash}{fd5bc6b7a9446bfee4a8217c7535134d}
+      \strng{fullhash}{fd5bc6b7a9446bfee4a8217c7535134d}
+      \strng{bibnamehash}{fd5bc6b7a9446bfee4a8217c7535134d}
+      \strng{authorbibnamehash}{fd5bc6b7a9446bfee4a8217c7535134d}
+      \strng{authornamehash}{fd5bc6b7a9446bfee4a8217c7535134d}
+      \strng{authorfullhash}{fd5bc6b7a9446bfee4a8217c7535134d}
+      \strng{editorbibnamehash}{fd5bc6b7a9446bfee4a8217c7535134d}
+      \strng{editornamehash}{fd5bc6b7a9446bfee4a8217c7535134d}
+      \strng{editorfullhash}{fd5bc6b7a9446bfee4a8217c7535134d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Perspectives synchroniques sur la grammaticalisation: {P}olysémie, transcatégorialité et échelles syntaxiques}
+      \field{number}{5}
+      \field{series}{Collection Afrique et Langange}
+      \field{title}{Vers une typologie de la transcatégorialité}
+      \field{year}{2003}
+      \field{pages}{255\bibrangedash 270}
+      \range{pages}{16}
+    \endentry
+    \entry{tallmancoincidence:2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6dbcf7bdae7a587571aa7a2d3e520f87}{%
+           family={Tallman},
+           familyi={T\bibinitperiod},
+           given={Adam\bibnamedelimb J.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{fullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{bibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorbibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authornamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorfullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Language}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Constituency and coincidence in {C}hácobo ({P}ano)}
+      \field{volume}{45}
+      \field{year}{2021}
+      \field{pages}{321\bibrangedash 383}
+      \range{pages}{63}
+      \verb{doi}
+      \verb 10.1075/sl.19025.tal
+      \endverb
+    \endentry
+  \enddatalist
+  \keyalias{Tallman2021}{tallmancoincidence:2020}
+\endrefsection
+\endinput
+

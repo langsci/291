@@ -1,0 +1,787 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{adelaar1977:tarmaquechua}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d9fc00476fc6de73db91e7e2be5567de}{%
+           family={Adelaar},
+           familyi={A\bibinitperiod},
+           given={Willem\bibnamedelimb F.\bibnamedelimi H.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lisse}%
+      }
+      \list{publisher}{1}{%
+        {The Peter de Ridder Press}%
+      }
+      \strng{namehash}{d9fc00476fc6de73db91e7e2be5567de}
+      \strng{fullhash}{d9fc00476fc6de73db91e7e2be5567de}
+      \strng{bibnamehash}{d9fc00476fc6de73db91e7e2be5567de}
+      \strng{authorbibnamehash}{d9fc00476fc6de73db91e7e2be5567de}
+      \strng{authornamehash}{d9fc00476fc6de73db91e7e2be5567de}
+      \strng{authorfullhash}{d9fc00476fc6de73db91e7e2be5567de}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tarma {{Quechua}}: {G}rammar, texts, dictionary}
+      \field{year}{1977}
+    \endentry
+    \entry{adelaar2004}{book}{}
+      \name{author}{2}{}{%
+        {{hash=d9fc00476fc6de73db91e7e2be5567de}{%
+           family={Adelaar},
+           familyi={A\bibinitperiod},
+           given={Willem\bibnamedelimb F.\bibnamedelimi H.},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=b28e5774b4a2c3c584252ad68592013b}{%
+           family={Muysken},
+           familyi={M\bibinitperiod},
+           given={Pieter\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{51f7a9dada1d06af945b8cb9de37ed79}
+      \strng{fullhash}{51f7a9dada1d06af945b8cb9de37ed79}
+      \strng{bibnamehash}{51f7a9dada1d06af945b8cb9de37ed79}
+      \strng{authorbibnamehash}{51f7a9dada1d06af945b8cb9de37ed79}
+      \strng{authornamehash}{51f7a9dada1d06af945b8cb9de37ed79}
+      \strng{authorfullhash}{51f7a9dada1d06af945b8cb9de37ed79}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Languages of the {Andes}}
+      \field{year}{2004}
+    \endentry
+    \entry{bickel:capturing}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ab7da2db0384a1288c8af609c794a21e}{%
+           family={Bickel},
+           familyi={B\bibinitperiod},
+           given={Balthasar},
+           giveni={B\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=0c09697942ee03f82b1e7a01da7cfc4c}{%
+           family={Brill},
+           familyi={B\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins Publishing Company}%
+      }
+      \strng{namehash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{fullhash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{bibnamehash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{authorbibnamehash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{authornamehash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{authorfullhash}{ab7da2db0384a1288c8af609c794a21e}
+      \strng{editorbibnamehash}{0c09697942ee03f82b1e7a01da7cfc4c}
+      \strng{editornamehash}{0c09697942ee03f82b1e7a01da7cfc4c}
+      \strng{editorfullhash}{0c09697942ee03f82b1e7a01da7cfc4c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Clause Linking and Clause Hierarchy: {S}yntax and Pragmatics}
+      \field{title}{Capturing particulars and universals in clause-linkage}
+      \field{year}{2010}
+      \field{pages}{51\bibrangedash 104}
+      \range{pages}{54}
+    \endentry
+    \entry{bills1971introdution}{book}{}
+      \name{author}{3}{}{%
+        {{hash=c9060bf7299a97876affda1f6fdc7719}{%
+           family={Bills},
+           familyi={B\bibinitperiod},
+           given={Garland\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3ab41107be55b1660a05bad16d8acda1}{%
+           family={Vallejo},
+           familyi={V\bibinitperiod},
+           given={Bernardo},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ca942efa8b9a16d5576946de760adaf5}{%
+           family={Troike},
+           familyi={T\bibinitperiod},
+           given={Rudolph},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Austin}%
+      }
+      \list{publisher}{1}{%
+        {University of Texas at Austin}%
+      }
+      \strng{namehash}{6358ea3df2253d50a32c8616a257063c}
+      \strng{fullhash}{d63f9913288e412029e6b9cfec58b939}
+      \strng{bibnamehash}{d63f9913288e412029e6b9cfec58b939}
+      \strng{authorbibnamehash}{d63f9913288e412029e6b9cfec58b939}
+      \strng{authornamehash}{6358ea3df2253d50a32c8616a257063c}
+      \strng{authorfullhash}{d63f9913288e412029e6b9cfec58b939}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An introdution to spoken {B}olivian {Q}uechua}
+      \field{year}{1971}
+    \endentry
+    \entry{cerronpalominoquechua:1994}{book}{}
+      \name{author}{1}{}{%
+        {{hash=edc99a3d81a9df9d271e7e7e9b185e88}{%
+           family={Cerrón-Palomino},
+           familyi={C\bibinithyphendelim P\bibinitperiod},
+           given={Rodolfo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lima}%
+      }
+      \list{publisher}{1}{%
+        {Biblioteca}%
+      }
+      \strng{namehash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \strng{fullhash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \strng{bibnamehash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \strng{authorbibnamehash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \strng{authornamehash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \strng{authorfullhash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{{{Quechua}}} Sureño: {D}iccionario unificado: {Q}uechua-Castellano Castellano-{{{Quechua}}}}
+      \field{year}{1994}
+    \endentry
+    \entry{cerronpalomino1987}{book}{}
+      \name{author}{1}{}{%
+        {{hash=edc99a3d81a9df9d271e7e7e9b185e88}{%
+           family={Cerrón-Palomino},
+           familyi={C\bibinithyphendelim P\bibinitperiod},
+           given={Rodolfo},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cusco}%
+      }
+      \list{publisher}{1}{%
+        {Centro de Estudios Rurales Andinos ``Bartolomé de las Casas"}%
+      }
+      \strng{namehash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \strng{fullhash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \strng{bibnamehash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \strng{authorbibnamehash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \strng{authornamehash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \strng{authorfullhash}{edc99a3d81a9df9d271e7e7e9b185e88}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lingüística {{Quechua}}}
+      \field{year}{1987}
+    \endentry
+    \entry{Reuse1994}{book}{}
+      \name{author}{1}{}{%
+        {{hash=325609a26a6c75ea28d6ef265c24093a}{%
+           family={Reuse},
+           familyi={R\bibinitperiod},
+           given={Willem\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City}%
+      }
+      \list{publisher}{1}{%
+        {University of Utah Press}%
+      }
+      \strng{namehash}{325609a26a6c75ea28d6ef265c24093a}
+      \strng{fullhash}{325609a26a6c75ea28d6ef265c24093a}
+      \strng{bibnamehash}{325609a26a6c75ea28d6ef265c24093a}
+      \strng{authorbibnamehash}{325609a26a6c75ea28d6ef265c24093a}
+      \strng{authornamehash}{325609a26a6c75ea28d6ef265c24093a}
+      \strng{authorfullhash}{325609a26a6c75ea28d6ef265c24093a}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Studies in {I}ndigenous {L}anguages of the {Americas}}
+      \field{title}{{Siberian} {Yupik} {{Eskimo}}: {The} language and its contacts with {Chukchi}}
+      \field{year}{1994}
+    \endentry
+    \entry{gussenhovenbruce:1999}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=9764bbb78ebf4a22342f2aea0e74c06f}{%
+           family={Gussenhoven},
+           familyi={G\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5357004e4c184d2ed63b275d8cc5efc9}{%
+           family={Bruce},
+           familyi={B\bibinitperiod},
+           given={Gösta},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=79fda2872c5055d9862ca05619d5651c}{%
+           family={Hulst},
+           familyi={H\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{599cde78a2b05a42f5b26e990fd6b9f9}
+      \strng{fullhash}{599cde78a2b05a42f5b26e990fd6b9f9}
+      \strng{bibnamehash}{599cde78a2b05a42f5b26e990fd6b9f9}
+      \strng{authorbibnamehash}{599cde78a2b05a42f5b26e990fd6b9f9}
+      \strng{authornamehash}{599cde78a2b05a42f5b26e990fd6b9f9}
+      \strng{authorfullhash}{599cde78a2b05a42f5b26e990fd6b9f9}
+      \strng{editorbibnamehash}{79fda2872c5055d9862ca05619d5651c}
+      \strng{editornamehash}{79fda2872c5055d9862ca05619d5651c}
+      \strng{editorfullhash}{79fda2872c5055d9862ca05619d5651c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Word prosodic systems in the Languages of {{Europe}}}
+      \field{title}{Word prosody and intonation}
+      \field{year}{1999}
+      \field{pages}{233\bibrangedash 271}
+      \range{pages}{39}
+    \endentry
+    \entry{haspelmathword:2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6554cfb014a9427af44c63f16722a3dd}{%
+           family={Haspelmath},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{6554cfb014a9427af44c63f16722a3dd}
+      \strng{fullhash}{6554cfb014a9427af44c63f16722a3dd}
+      \strng{bibnamehash}{6554cfb014a9427af44c63f16722a3dd}
+      \strng{authorbibnamehash}{6554cfb014a9427af44c63f16722a3dd}
+      \strng{authornamehash}{6554cfb014a9427af44c63f16722a3dd}
+      \strng{authorfullhash}{6554cfb014a9427af44c63f16722a3dd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Folia {L}inguistica}
+      \field{number}{1}
+      \field{title}{The indeterminacy of word segmentation and the nature of morphology and syntax}
+      \field{volume}{45}
+      \field{year}{2011}
+      \field{pages}{31\bibrangedash 80}
+      \range{pages}{50}
+      \verb{doi}
+      \verb 10.1515/flin.2011.002
+      \endverb
+    \endentry
+    \entry{herrerosanchez:gramaticaquechua:1978}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f2275c5f7a679f20bdff6f7d2ba88cd0}{%
+           family={Joaquín},
+           familyi={J\bibinitperiod},
+           given={Herrero},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9f158f13b2b205134468a2501f767c9f}{%
+           family={Lozada},
+           familyi={L\bibinitperiod},
+           given={Federico\bibnamedelima Sánchez},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cochabamba}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Universo}%
+      }
+      \strng{namehash}{551ecfd5eef0ac04986ab9c5cca79952}
+      \strng{fullhash}{551ecfd5eef0ac04986ab9c5cca79952}
+      \strng{bibnamehash}{551ecfd5eef0ac04986ab9c5cca79952}
+      \strng{authorbibnamehash}{551ecfd5eef0ac04986ab9c5cca79952}
+      \strng{authornamehash}{551ecfd5eef0ac04986ab9c5cca79952}
+      \strng{authorfullhash}{551ecfd5eef0ac04986ab9c5cca79952}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Gramática del {{{Quechua}}}: {{E}}structura del {{{Quechua}}} {B}oliviano contemporáneo}
+      \field{year}{1978}
+    \endentry
+    \entry{lakamperwunderlich1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f55a323e29cfcdee887c5b05660b9903}{%
+           family={Lakämper},
+           familyi={L\bibinitperiod},
+           given={Renate},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9d18b342529a553be499c9878bbd884e}{%
+           family={Wunderlich},
+           familyi={W\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{55ae644e4a34396482490d03e08e6da6}
+      \strng{fullhash}{55ae644e4a34396482490d03e08e6da6}
+      \strng{bibnamehash}{55ae644e4a34396482490d03e08e6da6}
+      \strng{authorbibnamehash}{55ae644e4a34396482490d03e08e6da6}
+      \strng{authornamehash}{55ae644e4a34396482490d03e08e6da6}
+      \strng{authorfullhash}{55ae644e4a34396482490d03e08e6da6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Lingua}
+      \field{title}{Person marking in {{Quechua}} -- a constraint-based minimalist analysis}
+      \field{volume}{105}
+      \field{year}{1998}
+      \field{pages}{113\bibrangedash 148}
+      \range{pages}{36}
+    \endentry
+    \entry{liebercompounds:2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1418df9612e945ef57bd3aa9caf5547d}{%
+           family={Lieber},
+           familyi={L\bibinitperiod},
+           given={Rochelle},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{1418df9612e945ef57bd3aa9caf5547d}
+      \strng{fullhash}{1418df9612e945ef57bd3aa9caf5547d}
+      \strng{bibnamehash}{1418df9612e945ef57bd3aa9caf5547d}
+      \strng{authorbibnamehash}{1418df9612e945ef57bd3aa9caf5547d}
+      \strng{authornamehash}{1418df9612e945ef57bd3aa9caf5547d}
+      \strng{authorfullhash}{1418df9612e945ef57bd3aa9caf5547d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Compounds and compounding}
+      \field{year}{2017}
+    \endentry
+    \entry{muysken:1981}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=b28e5774b4a2c3c584252ad68592013b}{%
+           family={Muysken},
+           familyi={M\bibinitperiod},
+           given={Pieter\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=63ede7fd17e009eb29b0bfafce06c953}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{fullhash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{bibnamehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{authorbibnamehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{authornamehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{authorfullhash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{editorbibnamehash}{63ede7fd17e009eb29b0bfafce06c953}
+      \strng{editornamehash}{63ede7fd17e009eb29b0bfafce06c953}
+      \strng{editorfullhash}{63ede7fd17e009eb29b0bfafce06c953}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Binding and filtering}
+      \field{title}{{Quechua} Word Structure}
+      \field{year}{1981}
+      \field{pages}{279\bibrangedash 327}
+      \range{pages}{49}
+    \endentry
+    \entry{muysken:1986affixorder}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b28e5774b4a2c3c584252ad68592013b}{%
+           family={Muysken},
+           familyi={M\bibinitperiod},
+           given={Pieter\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{fullhash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{bibnamehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{authorbibnamehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{authornamehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{authorfullhash}{b28e5774b4a2c3c584252ad68592013b}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistics}
+      \field{title}{Approaches to affix order}
+      \field{volume}{24}
+      \field{year}{1986}
+      \field{pages}{627\bibrangedash 643}
+      \range{pages}{17}
+    \endentry
+    \entry{muysken1989:dialectvariationquechua}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=b28e5774b4a2c3c584252ad68592013b}{%
+           family={Muysken},
+           familyi={M\bibinitperiod},
+           given={Pieter\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c621ca1fb4d0ce69e7c9ad08c0e90e7c}{%
+           family={Benincà},
+           familyi={B\bibinitperiod},
+           given={Paola},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Foris Publications Holland}%
+      }
+      \strng{namehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{fullhash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{bibnamehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{authorbibnamehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{authornamehash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{authorfullhash}{b28e5774b4a2c3c584252ad68592013b}
+      \strng{editorbibnamehash}{c621ca1fb4d0ce69e7c9ad08c0e90e7c}
+      \strng{editornamehash}{c621ca1fb4d0ce69e7c9ad08c0e90e7c}
+      \strng{editorfullhash}{c621ca1fb4d0ce69e7c9ad08c0e90e7c}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dialect Variation and the Theory of Grammar: {P}roceedings of the {{GLOW}} Workshop in {V}enice}
+      \field{title}{The morphology/syntax interface in {{Quechua}} dialectology}
+      \field{year}{1989}
+      \field{pages}{41\bibrangedash 51}
+      \range{pages}{11}
+    \endentry
+    \entry{myler2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=551b225da70285cd0611f7980c988b94}{%
+           family={Myler},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{551b225da70285cd0611f7980c988b94}
+      \strng{fullhash}{551b225da70285cd0611f7980c988b94}
+      \strng{bibnamehash}{551b225da70285cd0611f7980c988b94}
+      \strng{authorbibnamehash}{551b225da70285cd0611f7980c988b94}
+      \strng{authornamehash}{551b225da70285cd0611f7980c988b94}
+      \strng{authorfullhash}{551b225da70285cd0611f7980c988b94}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Language \& Linguistic Theory}
+      \field{title}{Clicization feeds agreement: {A} view from {{Quechua}}}
+      \field{volume}{35}
+      \field{year}{2017}
+      \field{pages}{751\bibrangedash 800}
+      \range{pages}{50}
+    \endentry
+    \entry{pierrehumbertbeckman:1986}{book}{}
+      \name{author}{2}{}{%
+        {{hash=d40ef94e4050e51ca57b7b0bb029f724}{%
+           family={Pierrehumbert},
+           familyi={P\bibinitperiod},
+           given={Janet},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9299be082732ce6701e25f9ac7b86741}{%
+           family={Beckman},
+           familyi={B\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{fc0fc8bcd683d694c23d7afd6ddf65f8}
+      \strng{fullhash}{fc0fc8bcd683d694c23d7afd6ddf65f8}
+      \strng{bibnamehash}{fc0fc8bcd683d694c23d7afd6ddf65f8}
+      \strng{authorbibnamehash}{fc0fc8bcd683d694c23d7afd6ddf65f8}
+      \strng{authornamehash}{fc0fc8bcd683d694c23d7afd6ddf65f8}
+      \strng{authorfullhash}{fc0fc8bcd683d694c23d7afd6ddf65f8}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Japanese} Tone Structure}
+      \field{year}{1986}
+    \endentry
+    \entry{plazamartinez:2009}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=962a2486cf6de71bd549eb08a84d5ea3}{%
+           family={Plaza\bibnamedelima Martinez},
+           familyi={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2b7e0f709a8476598e244032fac0293c}{%
+           family={Crevels},
+           familyi={C\bibinitperiod},
+           given={Mily},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b28e5774b4a2c3c584252ad68592013b}{%
+           family={Muysken},
+           familyi={M\bibinitperiod},
+           given={Pieter\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {La Paz}%
+      }
+      \list{publisher}{1}{%
+        {Plural editores}%
+      }
+      \strng{namehash}{962a2486cf6de71bd549eb08a84d5ea3}
+      \strng{fullhash}{962a2486cf6de71bd549eb08a84d5ea3}
+      \strng{bibnamehash}{962a2486cf6de71bd549eb08a84d5ea3}
+      \strng{authorbibnamehash}{962a2486cf6de71bd549eb08a84d5ea3}
+      \strng{authornamehash}{962a2486cf6de71bd549eb08a84d5ea3}
+      \strng{authorfullhash}{962a2486cf6de71bd549eb08a84d5ea3}
+      \strng{editorbibnamehash}{b7026bf41e8cf25f1bc2dd84e1049fa6}
+      \strng{editornamehash}{b7026bf41e8cf25f1bc2dd84e1049fa6}
+      \strng{editorfullhash}{b7026bf41e8cf25f1bc2dd84e1049fa6}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Lenguas de {{Bolivia}} {T}omo {I}}
+      \field{title}{{Quechua}}
+      \field{year}{2009}
+      \field{pages}{215\bibrangedash 284}
+      \range{pages}{70}
+    \endentry
+    \entry{tallmancoincidence:2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6dbcf7bdae7a587571aa7a2d3e520f87}{%
+           family={Tallman},
+           familyi={T\bibinitperiod},
+           given={Adam\bibnamedelimb J.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{fullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{bibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorbibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authornamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorfullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Language}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Constituency and coincidence in {C}hácobo ({P}ano)}
+      \field{volume}{45}
+      \field{year}{2021}
+      \field{pages}{321\bibrangedash 383}
+      \range{pages}{63}
+      \verb{doi}
+      \verb 10.1075/sl.19025.tal
+      \endverb
+    \endentry
+    \entry{vanderkerke:1996}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=43cbc7835022c8d29c6129c7e3494ad4}{%
+           family={Kerke},
+           familyi={K\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Amsterdam}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \strng{namehash}{43cbc7835022c8d29c6129c7e3494ad4}
+      \strng{fullhash}{43cbc7835022c8d29c6129c7e3494ad4}
+      \strng{bibnamehash}{43cbc7835022c8d29c6129c7e3494ad4}
+      \strng{authorbibnamehash}{43cbc7835022c8d29c6129c7e3494ad4}
+      \strng{authornamehash}{43cbc7835022c8d29c6129c7e3494ad4}
+      \strng{authorfullhash}{43cbc7835022c8d29c6129c7e3494ad4}
+      \field{sortinit}{v}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Affix order and interpretation}
+      \field{type}{phdthesis}
+      \field{year}{1996}
+    \endentry
+    \entry{weber1983relationship}{article}{}
+      \name{author}{1}{}{%
+        {{hash=648ac3b55363ac3d0c2526023654db59}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{648ac3b55363ac3d0c2526023654db59}
+      \strng{fullhash}{648ac3b55363ac3d0c2526023654db59}
+      \strng{bibnamehash}{648ac3b55363ac3d0c2526023654db59}
+      \strng{authorbibnamehash}{648ac3b55363ac3d0c2526023654db59}
+      \strng{authornamehash}{648ac3b55363ac3d0c2526023654db59}
+      \strng{authorfullhash}{648ac3b55363ac3d0c2526023654db59}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Work {P}apers of the {S}ummer {I}nstitute of {L}inguistics}
+      \field{number}{10}
+      \field{title}{The relationship of morphology and syntax: {{E}}vidence from {Q}uechua}
+      \field{volume}{27}
+      \field{year}{1983}
+      \verb{doi}
+      \verb 10.31356/silwp.vol27.10
+      \endverb
+    \endentry
+    \entry{weber1993binding}{article}{}
+      \name{author}{1}{}{%
+        {{hash=648ac3b55363ac3d0c2526023654db59}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{648ac3b55363ac3d0c2526023654db59}
+      \strng{fullhash}{648ac3b55363ac3d0c2526023654db59}
+      \strng{bibnamehash}{648ac3b55363ac3d0c2526023654db59}
+      \strng{authorbibnamehash}{648ac3b55363ac3d0c2526023654db59}
+      \strng{authornamehash}{648ac3b55363ac3d0c2526023654db59}
+      \strng{authorfullhash}{648ac3b55363ac3d0c2526023654db59}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{6}
+      \field{series}{Work Papers of the Summer Institute of Linguistics}
+      \field{title}{The binding properties of {Q}uechua suffixes}
+      \field{volume}{37}
+      \field{year}{1993}
+      \verb{doi}
+      \verb 10.31356/silwp.vol37.06
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

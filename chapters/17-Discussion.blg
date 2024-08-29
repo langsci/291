@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '17-Discussion.blg'
+[77] biber:340> INFO - === Wed Jul 24, 2024, 11:28:24
+[90] Biber.pm:419> INFO - Reading '17-Discussion.bcf'
+[167] Biber.pm:979> INFO - Found 74 citekeys in bib section 0
+[179] Biber.pm:4419> INFO - Processing section 0
+[189] Biber.pm:4610> INFO - Looking for bibtex file '../collection_tmp.bib' for section 0
+[190] bibtex.pm:1713> INFO - LaTeX decoding ...
+[241] bibtex.pm:1519> INFO - Found BibTeX data source '../collection_tmp.bib'
+[316] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[332] bibtex.pm:1713> INFO - LaTeX decoding ...
+[893] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1343] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1343] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1343] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1343] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1403] bbl.pm:660> INFO - Writing '17-Discussion.bbl' with encoding 'UTF-8'
+[1438] bbl.pm:763> INFO - Output to 17-Discussion.bbl

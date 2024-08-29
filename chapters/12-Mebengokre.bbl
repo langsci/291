@@ -1,0 +1,763 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{oliveira:phd}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=88516a4e659ea2cdb8a730877aa33efa}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Christiane\bibnamedelima Cunha},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Oregon}%
+      }
+      \strng{namehash}{88516a4e659ea2cdb8a730877aa33efa}
+      \strng{fullhash}{88516a4e659ea2cdb8a730877aa33efa}
+      \strng{bibnamehash}{88516a4e659ea2cdb8a730877aa33efa}
+      \strng{authorbibnamehash}{88516a4e659ea2cdb8a730877aa33efa}
+      \strng{authornamehash}{88516a4e659ea2cdb8a730877aa33efa}
+      \strng{authorfullhash}{88516a4e659ea2cdb8a730877aa33efa}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The language of the {A}pinajé people of {C}entral {B}razil}
+      \field{type}{phdthesis}
+      \field{year}{2005}
+    \endentry
+    \entry{kuroda:thetic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8073365b744b58a330ffe286abf1c2d5}{%
+           family={Kuroda},
+           familyi={K\bibinitperiod},
+           given={Sige-Yuki},
+           giveni={S\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{8073365b744b58a330ffe286abf1c2d5}
+      \strng{fullhash}{8073365b744b58a330ffe286abf1c2d5}
+      \strng{bibnamehash}{8073365b744b58a330ffe286abf1c2d5}
+      \strng{authorbibnamehash}{8073365b744b58a330ffe286abf1c2d5}
+      \strng{authornamehash}{8073365b744b58a330ffe286abf1c2d5}
+      \strng{authorfullhash}{8073365b744b58a330ffe286abf1c2d5}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Foundations of Language}
+      \field{title}{The categorical and the thetic judgment}
+      \field{volume}{9}
+      \field{year}{1972}
+      \field{pages}{153\bibrangedash 185}
+      \range{pages}{33}
+    \endentry
+    \entry{nikulin:phd}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=fd9b20996ba9ec2cbcc32233bf246401}{%
+           family={Nikulin},
+           familyi={N\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de Brasília}%
+      }
+      \strng{namehash}{fd9b20996ba9ec2cbcc32233bf246401}
+      \strng{fullhash}{fd9b20996ba9ec2cbcc32233bf246401}
+      \strng{bibnamehash}{fd9b20996ba9ec2cbcc32233bf246401}
+      \strng{authorbibnamehash}{fd9b20996ba9ec2cbcc32233bf246401}
+      \strng{authornamehash}{fd9b20996ba9ec2cbcc32233bf246401}
+      \strng{authorfullhash}{fd9b20996ba9ec2cbcc32233bf246401}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proto-{M}acro-{J}ê: {{U}}m estudo reconstrutivo}
+      \field{type}{phdthesis}
+      \field{year}{2020}
+    \endentry
+    \entry{nikulin-salanova:ijal}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fd9b20996ba9ec2cbcc32233bf246401}{%
+           family={Nikulin},
+           familyi={N\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{80fb1cbda7b80fe4bd454f9aa7db3b7e}
+      \strng{fullhash}{80fb1cbda7b80fe4bd454f9aa7db3b7e}
+      \strng{bibnamehash}{80fb1cbda7b80fe4bd454f9aa7db3b7e}
+      \strng{authorbibnamehash}{80fb1cbda7b80fe4bd454f9aa7db3b7e}
+      \strng{authornamehash}{80fb1cbda7b80fe4bd454f9aa7db3b7e}
+      \strng{authorfullhash}{80fb1cbda7b80fe4bd454f9aa7db3b7e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of American Linguistics}
+      \field{number}{4}
+      \field{title}{{Northern} {Jê} verb morphology and the reconstruction of finiteness alternations}
+      \field{volume}{85}
+      \field{year}{2019}
+      \field{pages}{533\bibrangedash 567}
+      \range{pages}{35}
+    \endentry
+    \entry{nonato:phd}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=299978403bb57d83c57d976debf4e2de}{%
+           family={Nonato},
+           familyi={N\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Massachusetts Institute of Technology}%
+      }
+      \strng{namehash}{299978403bb57d83c57d976debf4e2de}
+      \strng{fullhash}{299978403bb57d83c57d976debf4e2de}
+      \strng{bibnamehash}{299978403bb57d83c57d976debf4e2de}
+      \strng{authorbibnamehash}{299978403bb57d83c57d976debf4e2de}
+      \strng{authornamehash}{299978403bb57d83c57d976debf4e2de}
+      \strng{authorfullhash}{299978403bb57d83c57d976debf4e2de}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Clause chaining, switch reference, and coordination}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+    \endentry
+    \entry{sala:ensaio}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2cf428f0f19fc6b19f5f43fd97558ce9}{%
+           family={Sala},
+           familyi={S\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cf428f0f19fc6b19f5f43fd97558ce9}
+      \strng{fullhash}{2cf428f0f19fc6b19f5f43fd97558ce9}
+      \strng{bibnamehash}{2cf428f0f19fc6b19f5f43fd97558ce9}
+      \strng{authorbibnamehash}{2cf428f0f19fc6b19f5f43fd97558ce9}
+      \strng{authornamehash}{2cf428f0f19fc6b19f5f43fd97558ce9}
+      \strng{authorfullhash}{2cf428f0f19fc6b19f5f43fd97558ce9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista do Museu Paulista}
+      \field{title}{Ensaio de Grammatica {K}aiapó}
+      \field{volume}{XII}
+      \field{year}{1920}
+      \field{pages}{395\bibrangedash 429}
+      \range{pages}{35}
+    \endentry
+    \entry{salanova:phd}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Massachusetts Institute of Technology}%
+      }
+      \strng{namehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{fullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{bibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorbibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authornamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorfullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nominalizations and aspect}
+      \field{type}{phdthesis}
+      \field{year}{2007}
+    \endentry
+    \entry{salanova:amerindia}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{fullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{bibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorbibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authornamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorfullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Amérindia}
+      \field{title}{{{Uma}} análise unificada das construções ergativas do {M}ẽbengokre}
+      \field{volume}{32}
+      \field{year}{2008}
+      \field{pages}{109\bibrangedash 134}
+      \range{pages}{26}
+    \endentry
+    \entry{salanova:liames11}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{fullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{bibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorbibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authornamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorfullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{LIAMES}
+      \field{title}{A flexão de terceira pessoa nas línguas {J}ê}
+      \field{volume}{11}
+      \field{year}{2011}
+      \field{pages}{75\bibrangedash 114}
+      \range{pages}{40}
+    \endentry
+    \entry{salanova:redup}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9ed6b44b421ef97626281b53d9dc7043}{%
+           family={Voort},
+           familyi={V\bibinitperiod},
+           given={Hein},
+           giveni={H\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=b8205362cf4beddcfdfc1ae190170ecf}{%
+           family={Gómez},
+           familyi={G\bibinitperiod},
+           given={Gale\bibnamedelima Goodwin},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{fullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{bibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorbibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authornamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorfullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{editorbibnamehash}{1f4222e23eca3e275392e722d89d2735}
+      \strng{editornamehash}{1f4222e23eca3e275392e722d89d2735}
+      \strng{editorfullhash}{1f4222e23eca3e275392e722d89d2735}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Reduplication in {I}ndigenous languages of {S}outh {A}merica}
+      \field{title}{Reduplication and verbal number in {M}ẽbengokre}
+      \field{year}{2014}
+      \field{pages}{247\bibrangedash 272}
+      \range{pages}{26}
+    \endentry
+    \entry{salanova:bogota}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=b214745262adadbe895552a34ee9cadc}{%
+           family={Queixalós},
+           familyi={Q\bibinitperiod},
+           given={Francesc},
+           giveni={F\bibinitperiod}}}%
+        {{hash=82986d0251757747d62cb0070d5e86c4}{%
+           family={Telles},
+           familyi={T\bibinitperiod},
+           given={Stella},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5ec950d81e6b71dda9d09f186949c138}{%
+           family={Bruno},
+           familyi={B\bibinitperiod},
+           given={Ana\bibnamedelima Carla},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bogotá}%
+      }
+      \list{publisher}{1}{%
+        {Instituto Caro y Cuervo}%
+      }
+      \strng{namehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{fullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{bibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorbibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authornamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorfullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{editorbibnamehash}{640bb6a18cf6bf6d7c6ad25c68d3fcc6}
+      \strng{editornamehash}{03438d21efc64a0c851ec7f33682e842}
+      \strng{editorfullhash}{640bb6a18cf6bf6d7c6ad25c68d3fcc6}
+      \field{extraname}{5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Incremento de valencia en las lenguas amazónicas}
+      \field{title}{Sintaxis aplicativa, semántica causativa}
+      \field{year}{2014}
+      \field{pages}{154\bibrangedash 190}
+      \range{pages}{37}
+    \endentry
+    \entry{salanova:ergativity}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=a1c2df46ff6fe11cd6326b3a1bbd1b17}{%
+           family={Coon},
+           familyi={C\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+        {{hash=243d3dd08c92cda13dc31d7c4041a91d}{%
+           family={Massam},
+           familyi={M\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod}}}%
+        {{hash=90082393db9d19a6bec6f5cc4e97e1a4}{%
+           family={Travis},
+           familyi={T\bibinitperiod},
+           given={Lisa\bibnamedelima Demena},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{fullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{bibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorbibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authornamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorfullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{editorbibnamehash}{1c0ed02cb60e86d0689085637896cc73}
+      \strng{editornamehash}{899494edfe4d7f7251f9dd1d54539cc0}
+      \strng{editorfullhash}{1c0ed02cb60e86d0689085637896cc73}
+      \field{extraname}{6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{{Oxford}} {H}andbook of {{E}}rgativity}
+      \field{title}{Ergativity in {J}ê languages}
+      \field{year}{2017}
+      \field{pages}{1065\bibrangedash 1088}
+      \range{pages}{24}
+    \endentry
+    \entry{salanova:SN-amazonicas}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b214745262adadbe895552a34ee9cadc}{%
+           family={Queixalós},
+           familyi={Q\bibinitperiod},
+           given={Francesc},
+           giveni={F\bibinitperiod}}}%
+        {{hash=bb236172cd9300cddebf6e24f0ce58ec}{%
+           family={Gomes},
+           familyi={G\bibinitperiod},
+           given={Dioney\bibnamedelima Moreira},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Brasília}%
+      }
+      \list{publisher}{1}{%
+        {Pontes}%
+      }
+      \strng{namehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{fullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{bibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorbibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authornamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorfullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{editorbibnamehash}{d591f01789b60530c7a773914cc9d239}
+      \strng{editornamehash}{d591f01789b60530c7a773914cc9d239}
+      \strng{editorfullhash}{d591f01789b60530c7a773914cc9d239}
+      \field{extraname}{7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{O sintagma nominal em línguas amazônicas}
+      \field{title}{O sintagma nominal como estrutura predicativa}
+      \field{year}{2017}
+      \field{pages}{203\bibrangedash 239}
+      \range{pages}{37}
+    \endentry
+    \entry{salanova:causative}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=f63a514ec2b02bdcf7cc92bd5bdf703b}{%
+           family={Newell},
+           familyi={N\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod}}}%
+        {{hash=53e22b532bc4febac87205ad5fabe8e6}{%
+           family={Noonan},
+           familyi={N\bibinitperiod},
+           given={Máire},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6d8ead7e7b4962fc99e772a1147a4318}{%
+           family={Piggott},
+           familyi={P\bibinitperiod},
+           given={Glynne},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cfca3a67f79a731950ee7bc5b2161677}{%
+           family={Travis},
+           familyi={T\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{fullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{bibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorbibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authornamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorfullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{editorbibnamehash}{d83b983d31c1a7f6b0e15ec2e6c65c02}
+      \strng{editornamehash}{4c38058b578f3ece512e14890f4df8cc}
+      \strng{editorfullhash}{d83b983d31c1a7f6b0e15ec2e6c65c02}
+      \field{extraname}{8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The structure of words at the interfaces}
+      \field{title}{The paradoxes of {M}ẽbêngôkre's analytic causative}
+      \field{year}{2017}
+      \field{pages}{160\bibrangedash 184}
+      \range{pages}{25}
+    \endentry
+    \entry{salanova:count}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{fullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{bibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorbibnamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authornamehash}{6f1e2cd33b13313e65c5492da40739ba}
+      \strng{authorfullhash}{6f1e2cd33b13313e65c5492da40739ba}
+      \field{extraname}{9}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistic Variation}
+      \field{number}{20}
+      \field{title}{Counting and measuring in {M}ẽbêngôkre and the count/mass distinction}
+      \field{volume}{2}
+      \field{year}{2020}
+      \field{pages}{300\bibrangedash 11}
+      \range{pages}{12}
+    \endentry
+    \entry{salanova-nikulin:loans}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=fd9b20996ba9ec2cbcc32233bf246401}{%
+           family={Nikulin},
+           familyi={N\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd037b38f8f58e190c998a066b129d69}
+      \strng{fullhash}{dd037b38f8f58e190c998a066b129d69}
+      \strng{bibnamehash}{dd037b38f8f58e190c998a066b129d69}
+      \strng{authorbibnamehash}{dd037b38f8f58e190c998a066b129d69}
+      \strng{authornamehash}{dd037b38f8f58e190c998a066b129d69}
+      \strng{authorfullhash}{dd037b38f8f58e190c998a066b129d69}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Norteamentos (Sinop)}
+      \field{number}{33}
+      \field{title}{A história que conta o léxico {M}ẽbêngôkre}
+      \field{volume}{13}
+      \field{year}{2020}
+      \field{pages}{52\bibrangedash 106}
+      \range{pages}{55}
+    \endentry
+    \entry{relationality-1}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=6f1e2cd33b13313e65c5492da40739ba}{%
+           family={Salanova},
+           familyi={S\bibinitperiod},
+           given={Andrés\bibnamedelima Pablo},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=fd9b20996ba9ec2cbcc32233bf246401}{%
+           family={Nikulin},
+           familyi={N\bibinitperiod},
+           given={Andrey},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd037b38f8f58e190c998a066b129d69}
+      \strng{fullhash}{dd037b38f8f58e190c998a066b129d69}
+      \strng{bibnamehash}{dd037b38f8f58e190c998a066b129d69}
+      \strng{authorbibnamehash}{dd037b38f8f58e190c998a066b129d69}
+      \strng{authornamehash}{dd037b38f8f58e190c998a066b129d69}
+      \strng{authorfullhash}{dd037b38f8f58e190c998a066b129d69}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{pubstate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Manuscript submitted to {\em IJAL}}
+      \field{pubstate}{in press}
+      \field{title}{A typology of relationalizing and absolutizing morphology in {L}owland {S}outh {A}merican languages}
+    \endentry
+    \entry{stout-thomson:fonemica}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8ba4d52161831bc9b72160fd28cef77e}{%
+           family={Stout},
+           familyi={S\bibinitperiod},
+           given={Mickey},
+           giveni={M\bibinitperiod}}}%
+        {{hash=97f785e603f7081c62b8f2af5eb3553f}{%
+           family={Thomson},
+           familyi={T\bibinitperiod},
+           given={Ruth},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{534a48eb2d56e83fe3a485899f060968}
+      \strng{fullhash}{534a48eb2d56e83fe3a485899f060968}
+      \strng{bibnamehash}{534a48eb2d56e83fe3a485899f060968}
+      \strng{authorbibnamehash}{534a48eb2d56e83fe3a485899f060968}
+      \strng{authornamehash}{534a48eb2d56e83fe3a485899f060968}
+      \strng{authorfullhash}{534a48eb2d56e83fe3a485899f060968}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{SIL, Brasília}
+      \field{journaltitle}{Série Linguística}
+      \field{title}{Fonêmica {T}xukahamẽi ({K}ayapó)}
+      \field{volume}{3}
+      \field{year}{1974}
+      \field{pages}{153\bibrangedash 176}
+      \range{pages}{24}
+    \endentry
+    \entry{tallmancoincidence:2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6dbcf7bdae7a587571aa7a2d3e520f87}{%
+           family={Tallman},
+           familyi={T\bibinitperiod},
+           given={Adam\bibnamedelimb J.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{fullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{bibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorbibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authornamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorfullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Language}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Constituency and coincidence in {C}hácobo ({P}ano)}
+      \field{volume}{45}
+      \field{year}{2021}
+      \field{pages}{321\bibrangedash 383}
+      \range{pages}{63}
+      \verb{doi}
+      \verb 10.1075/sl.19025.tal
+      \endverb
+    \endentry
+    \entry{verswijver:juruna}{article}{}
+      \name{author}{1}{}{%
+        {{hash=620bfcce65d6a9f7d8e880e4836026fc}{%
+           family={Verswijver},
+           familyi={V\bibinitperiod},
+           given={Gustaaf},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \strng{fullhash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \strng{bibnamehash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \strng{authorbibnamehash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \strng{authornamehash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \strng{authorfullhash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jahrbuch des Museums für Völkerkunde zu Leipzig}
+      \field{title}{The intertribal relations between the {J}uruna and the {K}ayapo {I}ndians (1850-1920)}
+      \field{volume}{36}
+      \field{year}{1982}
+      \field{pages}{305\bibrangedash 315}
+      \range{pages}{11}
+    \endentry
+    \entry{verswijver:club-fighters}{book}{}
+      \name{author}{1}{}{%
+        {{hash=620bfcce65d6a9f7d8e880e4836026fc}{%
+           family={Verswijver},
+           familyi={V\bibinitperiod},
+           given={Gustaaf},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Almería}%
+      }
+      \list{publisher}{1}{%
+        {Turuti Books}%
+      }
+      \strng{namehash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \strng{fullhash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \strng{bibnamehash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \strng{authorbibnamehash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \strng{authornamehash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \strng{authorfullhash}{620bfcce65d6a9f7d8e880e4836026fc}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{The club-fighters of the {A}mazon. {W}arfare among the {K}ayapo {I}ndians of {C}entral {B}razil}
+      \field{year}{2018}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

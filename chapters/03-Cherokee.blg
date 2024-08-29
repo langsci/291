@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '03-Cherokee.blg'
+[70] biber:340> INFO - === Wed Jul  3, 2024, 09:59:05
+[82] Biber.pm:419> INFO - Reading '03-Cherokee.bcf'
+[153] Biber.pm:979> INFO - Found 52 citekeys in bib section 0
+[164] Biber.pm:4419> INFO - Processing section 0
+[173] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[188] bibtex.pm:1713> INFO - LaTeX decoding ...
+[705] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[947] Biber.pm:4610> INFO - Looking for bibtex file '../collection_tmp.bib' for section 0
+[953] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1014] bibtex.pm:1519> INFO - Found BibTeX data source '../collection_tmp.bib'
+[1083] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1083] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1083] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1083] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1114] bbl.pm:660> INFO - Writing '03-Cherokee.bbl' with encoding 'UTF-8'
+[1134] bbl.pm:763> INFO - Output to 03-Cherokee.bbl

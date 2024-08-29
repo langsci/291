@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '13-Araona.blg'
+[109] biber:340> INFO - === Fri Jul 19, 2024, 10:38:17
+[122] Biber.pm:419> INFO - Reading '13-Araona.bcf'
+[193] Biber.pm:979> INFO - Found 45 citekeys in bib section 0
+[205] Biber.pm:4419> INFO - Processing section 0
+[214] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[229] bibtex.pm:1713> INFO - LaTeX decoding ...
+[735] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1014] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1015] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1015] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1015] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1043] bbl.pm:660> INFO - Writing '13-Araona.bbl' with encoding 'UTF-8'
+[1060] bbl.pm:763> INFO - Output to 13-Araona.bbl

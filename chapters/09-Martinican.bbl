@@ -1,0 +1,601 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Bernabe1983}{book}{}
+      \name{author}{1}{}{%
+        {{hash=aef3afbe223824b45f5a08b74731eec6}{%
+           family={Bernabé},
+           familyi={B\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {L’Harmattan}%
+      }
+      \strng{namehash}{aef3afbe223824b45f5a08b74731eec6}
+      \strng{fullhash}{aef3afbe223824b45f5a08b74731eec6}
+      \strng{bibnamehash}{aef3afbe223824b45f5a08b74731eec6}
+      \strng{authorbibnamehash}{aef3afbe223824b45f5a08b74731eec6}
+      \strng{authornamehash}{aef3afbe223824b45f5a08b74731eec6}
+      \strng{authorfullhash}{aef3afbe223824b45f5a08b74731eec6}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fondal-Natal: {G}rammaire Basilectale Approchée Des Créoles Guadeloupéen et Martiniquais: {A}pproche Sociolittéraire, Sociolinguistique et Syntaxique}
+      \field{volume}{1}
+      \field{year}{1983}
+    \endentry
+    \entry{Bernabe2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=aef3afbe223824b45f5a08b74731eec6}{%
+           family={Bernabé},
+           familyi={B\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Fort-de-France}%
+      }
+      \list{publisher}{1}{%
+        {le Teneur}%
+      }
+      \strng{namehash}{aef3afbe223824b45f5a08b74731eec6}
+      \strng{fullhash}{aef3afbe223824b45f5a08b74731eec6}
+      \strng{bibnamehash}{aef3afbe223824b45f5a08b74731eec6}
+      \strng{authorbibnamehash}{aef3afbe223824b45f5a08b74731eec6}
+      \strng{authornamehash}{aef3afbe223824b45f5a08b74731eec6}
+      \strng{authorfullhash}{aef3afbe223824b45f5a08b74731eec6}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Obidjoul: {A}pproche écologique et cognitive au service du mieux lire-écrire le créole}
+      \field{year}{2013}
+    \endentry
+    \entry{Colot2002}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ab4527ac5cfe160d14a4a34014957901}{%
+           family={Colot},
+           familyi={C\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Peti-Bourg}%
+      }
+      \list{publisher}{1}{%
+        {Ibis Rouge Ed}%
+      }
+      \strng{namehash}{ab4527ac5cfe160d14a4a34014957901}
+      \strng{fullhash}{ab4527ac5cfe160d14a4a34014957901}
+      \strng{bibnamehash}{ab4527ac5cfe160d14a4a34014957901}
+      \strng{authorbibnamehash}{ab4527ac5cfe160d14a4a34014957901}
+      \strng{authornamehash}{ab4527ac5cfe160d14a4a34014957901}
+      \strng{authorfullhash}{ab4527ac5cfe160d14a4a34014957901}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-2-84450-136-3}
+      \field{series}{Guides du CAPES de créole}
+      \field{title}{Guide de lexicologie des créoles guadeloupéen et martiniquais}
+      \field{year}{2002}
+    \endentry
+    \entry{Colot2013}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=ab4527ac5cfe160d14a4a34014957901}{%
+           family={Colot},
+           familyi={C\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cefb23b6d7846ea16090ec6aaec35dd3}{%
+           family={Ludwig},
+           familyi={L\bibinitperiod},
+           given={Ralph},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=b311fec6dc8e2f1bac962e89ff9f4b98}{%
+           family={Michaelis},
+           familyi={M\bibinitperiod},
+           given={Susanne\bibnamedelima Maria},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=35f1b04b6ffdad8d2bc8fdcfc48a3eef}{%
+           family={Maurer},
+           familyi={M\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6554cfb014a9427af44c63f16722a3dd}{%
+           family={Haspelmath},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=589fa6c8c9aba9da6cf8e49a9bb3e797}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Magnus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{19139e90a19fc5c719dd89d88908d60c}
+      \strng{fullhash}{19139e90a19fc5c719dd89d88908d60c}
+      \strng{bibnamehash}{19139e90a19fc5c719dd89d88908d60c}
+      \strng{authorbibnamehash}{19139e90a19fc5c719dd89d88908d60c}
+      \strng{authornamehash}{19139e90a19fc5c719dd89d88908d60c}
+      \strng{authorfullhash}{19139e90a19fc5c719dd89d88908d60c}
+      \strng{editorbibnamehash}{786444bf91622f59789cbb3ad9668c30}
+      \strng{editornamehash}{ddbc38f165987d79e83d501b48a6a8d8}
+      \strng{editorfullhash}{786444bf91622f59789cbb3ad9668c30}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The survey of pidgin and creole languages. {V}olume 2: {P}ortuguese-based, {{Spanish}}-based, and {{French}}-based Languages}
+      \field{title}{Guadeloupean and Martinican {{Creole}}}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://apics-online.info/surveys/50
+      \endverb
+      \verb{url}
+      \verb https://apics-online.info/surveys/50
+      \endverb
+    \endentry
+    \entry{Degraff2005}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b5ea767cfc1d1c20f520bceb5df106b2}{%
+           family={Degraff},
+           familyi={D\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5ea767cfc1d1c20f520bceb5df106b2}
+      \strng{fullhash}{b5ea767cfc1d1c20f520bceb5df106b2}
+      \strng{bibnamehash}{b5ea767cfc1d1c20f520bceb5df106b2}
+      \strng{authorbibnamehash}{b5ea767cfc1d1c20f520bceb5df106b2}
+      \strng{authornamehash}{b5ea767cfc1d1c20f520bceb5df106b2}
+      \strng{authorfullhash}{b5ea767cfc1d1c20f520bceb5df106b2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Language in Society}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Linguists' most dangerous myth: {T}he fallacy of {{Creole}} Exceptionalism}
+      \field{volume}{34}
+      \field{year}{2005}
+      \field{pages}{533\bibrangedash 591}
+      \range{pages}{59}
+      \verb{doi}
+      \verb 10.1017/S0047404505050207
+      \endverb
+    \endentry
+    \entry{Duzerol2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8948fb7d371e624225f2385bd7009400}{%
+           family={Duzerol},
+           familyi={D\bibinitperiod},
+           given={Minella},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8948fb7d371e624225f2385bd7009400}
+      \strng{fullhash}{8948fb7d371e624225f2385bd7009400}
+      \strng{bibnamehash}{8948fb7d371e624225f2385bd7009400}
+      \strng{authorbibnamehash}{8948fb7d371e624225f2385bd7009400}
+      \strng{authornamehash}{8948fb7d371e624225f2385bd7009400}
+      \strng{authorfullhash}{8948fb7d371e624225f2385bd7009400}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Contextes et didactiques}
+      \field{month}{6}
+      \field{title}{L'étude linguistique, une analyse modelée par le linguiste, son objet d'étude, ses approches et sa méthodologie: {L}e cas de cinq descriptions grammaticales du martiniquais (créole, Martinique)}
+      \field{volume}{17}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.4000/ced.2818
+      \endverb
+    \endentry
+    \entry{Duzerol2021b}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8948fb7d371e624225f2385bd7009400}{%
+           family={Duzerol},
+           familyi={D\bibinitperiod},
+           given={Minella},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8948fb7d371e624225f2385bd7009400}
+      \strng{fullhash}{8948fb7d371e624225f2385bd7009400}
+      \strng{bibnamehash}{8948fb7d371e624225f2385bd7009400}
+      \strng{authorbibnamehash}{8948fb7d371e624225f2385bd7009400}
+      \strng{authornamehash}{8948fb7d371e624225f2385bd7009400}
+      \strng{authorfullhash}{8948fb7d371e624225f2385bd7009400}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Presentation at SLE 2021 in Athens}
+      \field{title}{Variation in {Martinican} complementation: {A} sociogrammatical approach}
+      \field{year}{2021}
+    \endentry
+    \entry{GadetPfaender2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=7709f70d064608add3bc277edc6db8b5}{%
+           family={Gadet},
+           familyi={G\bibinitperiod},
+           given={Françoise},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cefb23b6d7846ea16090ec6aaec35dd3}{%
+           family={Ludwig},
+           familyi={L\bibinitperiod},
+           given={Ralph},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3a29b9d2259133e3e06be96353ef84d5}{%
+           family={Pfänder},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{39379f4b3f9d09c5599e29af9978b905}
+      \strng{fullhash}{7748fddaa3d1da147a7732c279b300af}
+      \strng{bibnamehash}{7748fddaa3d1da147a7732c279b300af}
+      \strng{authorbibnamehash}{7748fddaa3d1da147a7732c279b300af}
+      \strng{authornamehash}{39379f4b3f9d09c5599e29af9978b905}
+      \strng{authorfullhash}{7748fddaa3d1da147a7732c279b300af}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cahiers de Linguistique}
+      \field{number}{1}
+      \field{title}{Francophonie et Typologie Des Situations}
+      \field{volume}{34}
+      \field{year}{2009}
+      \field{pages}{143\bibrangedash 62}
+      \range{pages}{20}
+    \endentry
+    \entry{Migge2018}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=b0a82fac8efbc72e9d873b9e8fe6af92}{%
+           family={Migge},
+           familyi={M\bibinitperiod},
+           given={Bettina},
+           giveni={B\bibinitperiod}}}%
+        {{hash=59eed0fbd4a9aa6d700d65e2d502a0ee}{%
+           family={Manfredi},
+           familyi={M\bibinitperiod},
+           given={Stefano},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8c03ed2c522b448d4d77c133200ff790}{%
+           family={Quint},
+           familyi={Q\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {INALCO}%
+      }
+      \strng{namehash}{156f53a3c3b050f1f82bb37e7f32b9a9}
+      \strng{fullhash}{7d3230979d013c7271958f2b77d409d3}
+      \strng{bibnamehash}{7d3230979d013c7271958f2b77d409d3}
+      \strng{authorbibnamehash}{7d3230979d013c7271958f2b77d409d3}
+      \strng{authornamehash}{156f53a3c3b050f1f82bb37e7f32b9a9}
+      \strng{authorfullhash}{7d3230979d013c7271958f2b77d409d3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Finite and non-finite subordinate clauses in creole languages}
+      \field{year}{2018}
+    \endentry
+    \entry{Payne1997}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dfa38f99b364f27c7231a296b17624cc}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={Thomas\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{dfa38f99b364f27c7231a296b17624cc}
+      \strng{fullhash}{dfa38f99b364f27c7231a296b17624cc}
+      \strng{bibnamehash}{dfa38f99b364f27c7231a296b17624cc}
+      \strng{authorbibnamehash}{dfa38f99b364f27c7231a296b17624cc}
+      \strng{authornamehash}{dfa38f99b364f27c7231a296b17624cc}
+      \strng{authorfullhash}{dfa38f99b364f27c7231a296b17624cc}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-521-58224-7}
+      \field{title}{Describing morphosyntax: {A} guide for field linguists}
+      \field{year}{1997}
+    \endentry
+    \entry{PinalieBernabe1999}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=807e08ece1ee98d3691d94aab853a247}{%
+           family={Pinalie},
+           familyi={P\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=aef3afbe223824b45f5a08b74731eec6}{%
+           family={Bernabé},
+           familyi={B\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Editions L’Harmattan}%
+      }
+      \strng{namehash}{88db654c153c125f5d515c54db77d49d}
+      \strng{fullhash}{88db654c153c125f5d515c54db77d49d}
+      \strng{bibnamehash}{88db654c153c125f5d515c54db77d49d}
+      \strng{authorbibnamehash}{88db654c153c125f5d515c54db77d49d}
+      \strng{authornamehash}{88db654c153c125f5d515c54db77d49d}
+      \strng{authorfullhash}{88db654c153c125f5d515c54db77d49d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Grammaire Du Créole Martiniquais en 50 Leçons}
+      \field{year}{1999}
+    \endentry
+    \entry{Siegel2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ebe6e01a8862183ae4986acdb6dcbafd}{%
+           family={Siegel},
+           familyi={S\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ebe6e01a8862183ae4986acdb6dcbafd}
+      \strng{fullhash}{ebe6e01a8862183ae4986acdb6dcbafd}
+      \strng{bibnamehash}{ebe6e01a8862183ae4986acdb6dcbafd}
+      \strng{authorbibnamehash}{ebe6e01a8862183ae4986acdb6dcbafd}
+      \strng{authornamehash}{ebe6e01a8862183ae4986acdb6dcbafd}
+      \strng{authorfullhash}{ebe6e01a8862183ae4986acdb6dcbafd}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IULC Working Papers}
+      \field{number}{1}
+      \field{title}{Decreolization: {A} critical review}
+      \field{volume}{22}
+      \field{year}{2010}
+      \field{pages}{83\bibrangedash 98}
+      \range{pages}{16}
+      \verb{urlraw}
+      \verb https://scholarworks.iu.edu/journals/index.php/iulcwp/article/view/25994/31664
+      \endverb
+      \verb{url}
+      \verb https://scholarworks.iu.edu/journals/index.php/iulcwp/article/view/25994/31664
+      \endverb
+    \endentry
+    \entry{Tallman2020b}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6dbcf7bdae7a587571aa7a2d3e520f87}{%
+           family={Tallman},
+           familyi={T\bibinitperiod},
+           given={Adam\bibnamedelimb J.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lyon}%
+      }
+      \list{publisher}{1}{%
+        {DDL}%
+      }
+      \strng{namehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{fullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{bibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorbibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authornamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorfullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Word constituents and the morphology-syntax distinction: {D}escriptive and typological perspectives}
+      \field{year}{2020}
+    \endentry
+    \entry{tallmancoincidence:2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6dbcf7bdae7a587571aa7a2d3e520f87}{%
+           family={Tallman},
+           familyi={T\bibinitperiod},
+           given={Adam\bibnamedelimb J.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{fullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{bibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorbibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authornamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorfullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Language}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Constituency and coincidence in {C}hácobo ({P}ano)}
+      \field{volume}{45}
+      \field{year}{2021}
+      \field{pages}{321\bibrangedash 383}
+      \range{pages}{63}
+      \verb{doi}
+      \verb 10.1075/sl.19025.tal
+      \endverb
+    \endentry
+    \entry{chapters/01-Introduction}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6dbcf7bdae7a587571aa7a2d3e520f87}{%
+           family={Tallman},
+           familyi={T\bibinitperiod},
+           given={Adam\bibnamedelimb J.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=6dbcf7bdae7a587571aa7a2d3e520f87}{%
+           family={Tallman},
+           familyi={T\bibinitperiod},
+           given={Adam\bibnamedelima J.R.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fce016bbe9db50ef7a32cb13f7c2675b}{%
+           family={Auderset},
+           familyi={A\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8aae7a571c4a2a0a35a1f4685c07885b}{%
+           family={Uchihara},
+           familyi={U\bibinitperiod},
+           given={Hiroto},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Language Science Press.}%
+      }
+      \strng{namehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{fullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{bibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorbibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authornamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorfullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{editorbibnamehash}{b5d40f8e37658efaa5bba65be5782c2f}
+      \strng{editornamehash}{78063de506e900c07dde976893979e81}
+      \strng{editorfullhash}{b5d40f8e37658efaa5bba65be5782c2f}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Constituency and convergence in the Americas}}
+      \field{title}{{Introduction: Phonological and morphosyntactic constituency in cross-linguistic perspective}}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 83}
+      \range{pages}{83}
+      \verb{doi}
+      \verb ??
+      \endverb
+      \keyw{withinvolume}
+    \endentry
+    \entry{Zribi-Hertz2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c126e19259ee9bb6215a165a79487060}{%
+           family={Zribi-Hertz},
+           familyi={Z\bibinithyphendelim H\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=66627a39bd1b25c05f78ee9655237abb}{%
+           family={Jean-Louis},
+           familyi={J\bibinithyphendelim L\bibinitperiod},
+           given={Loïc},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{31ab5391c09332e5fc68f1f69cebc5ef}
+      \strng{fullhash}{31ab5391c09332e5fc68f1f69cebc5ef}
+      \strng{bibnamehash}{31ab5391c09332e5fc68f1f69cebc5ef}
+      \strng{authorbibnamehash}{31ab5391c09332e5fc68f1f69cebc5ef}
+      \strng{authornamehash}{31ab5391c09332e5fc68f1f69cebc5ef}
+      \strng{authorfullhash}{31ab5391c09332e5fc68f1f69cebc5ef}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Faits de Langues}
+      \field{title}{{{La}} graphie créole à l'épreuve de la grammaire : {P}laidoyer pour un marquage graphique de l'attachement morphologique non lexical dans les créoles français des Antilles}
+      \field{volume}{49}
+      \field{year}{2017}
+      \field{pages}{183\bibrangedash 202}
+      \range{pages}{20}
+    \endentry
+  \enddatalist
+  \keyalias{tallman2021constituency}{tallmancoincidence:2020}
+\endrefsection
+\endinput
+

@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '15-Chorote.blg'
+[79] biber:340> INFO - === Fri Jul 19, 2024, 18:32:52
+[93] Biber.pm:419> INFO - Reading '15-Chorote.bcf'
+[168] Biber.pm:979> INFO - Found 25 citekeys in bib section 0
+[180] Biber.pm:4419> INFO - Processing section 0
+[190] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[212] bibtex.pm:1713> INFO - LaTeX decoding ...
+[757] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[935] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[935] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[935] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[936] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[953] bbl.pm:660> INFO - Writing '15-Chorote.bbl' with encoding 'UTF-8'
+[963] bbl.pm:763> INFO - Output to 15-Chorote.bbl
+[963] Biber.pm:131> WARN - legacy year field 'Forthcoming' in entry 'NikulinCarolForthcoming' is not an integer - this will probably not sort properly.
+[963] Biber.pm:133> INFO - WARNINGS: 1

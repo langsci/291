@@ -1,0 +1,536 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{aikh99}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=55f750ddc3253d618ceaa3904b7fe33c}{%
+           family={Aikhenvald},
+           familyi={A\bibinitperiod},
+           given={Alexandra\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ad0bddc9e4f425a16073c9cfd1558f47}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={R.\bibnamedelimi M.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=55f750ddc3253d618ceaa3904b7fe33c}{%
+           family={Aikhenvald},
+           familyi={A\bibinitperiod},
+           given={Alexandra\bibnamedelima Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{55f750ddc3253d618ceaa3904b7fe33c}
+      \strng{fullhash}{55f750ddc3253d618ceaa3904b7fe33c}
+      \strng{bibnamehash}{55f750ddc3253d618ceaa3904b7fe33c}
+      \strng{authorbibnamehash}{55f750ddc3253d618ceaa3904b7fe33c}
+      \strng{authornamehash}{55f750ddc3253d618ceaa3904b7fe33c}
+      \strng{authorfullhash}{55f750ddc3253d618ceaa3904b7fe33c}
+      \strng{editorbibnamehash}{1ff7ada86b1cbd153adb0ec1b2e70e71}
+      \strng{editornamehash}{1ff7ada86b1cbd153adb0ec1b2e70e71}
+      \strng{editorfullhash}{1ff7ada86b1cbd153adb0ec1b2e70e71}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Amazonian}} languages}
+      \field{title}{The {{Arawak}} language family}
+      \field{year}{1999}
+      \field{pages}{65\bibrangedash 102}
+      \range{pages}{38}
+    \endentry
+    \entry{wals-22}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=ab7da2db0384a1288c8af609c794a21e}{%
+           family={Bickel},
+           familyi={B\bibinitperiod},
+           given={Balthasar},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6c09f5edfc18c697f68f320b247a7570}{%
+           family={Nichols},
+           familyi={N\bibinitperiod},
+           given={Johanna},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ebc8611479e70482565864e81aee4e75}{%
+           family={Dryer},
+           familyi={D\bibinitperiod},
+           given={Matthew\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6554cfb014a9427af44c63f16722a3dd}{%
+           family={Haspelmath},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leipzig}%
+      }
+      \list{publisher}{1}{%
+        {Max Planck Institute for Evolutionary Anthropology}%
+      }
+      \strng{namehash}{2b4fa44ec7b2da7ec8df42e40689914b}
+      \strng{fullhash}{2b4fa44ec7b2da7ec8df42e40689914b}
+      \strng{bibnamehash}{2b4fa44ec7b2da7ec8df42e40689914b}
+      \strng{authorbibnamehash}{2b4fa44ec7b2da7ec8df42e40689914b}
+      \strng{authornamehash}{2b4fa44ec7b2da7ec8df42e40689914b}
+      \strng{authorfullhash}{2b4fa44ec7b2da7ec8df42e40689914b}
+      \strng{editorbibnamehash}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \strng{editornamehash}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \strng{editorfullhash}{fe62fbc91518e882ff47d9bf1a75e3ee}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The World Atlas of Language Structures Online}
+      \field{title}{Chapter 22: {{I}}nflectional synthesis of the verb}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://wals.info/chapter/22
+      \endverb
+      \verb{url}
+      \verb https://wals.info/chapter/22
+      \endverb
+    \endentry
+    \entry{danielsen2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=30038aa3753320525e314f299f412004}{%
+           family={Danielsen},
+           familyi={D\bibinitperiod},
+           given={Swintha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{30038aa3753320525e314f299f412004}
+      \strng{fullhash}{30038aa3753320525e314f299f412004}
+      \strng{bibnamehash}{30038aa3753320525e314f299f412004}
+      \strng{authorbibnamehash}{30038aa3753320525e314f299f412004}
+      \strng{authornamehash}{30038aa3753320525e314f299f412004}
+      \strng{authorfullhash}{30038aa3753320525e314f299f412004}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of American Linguistics}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{The Personal Paradigms in {Baure} and Other {{Southern}} {{Arawakan}} Languages}
+      \field{volume}{77}
+      \field{year}{2011}
+      \field{pages}{495\bibrangedash 520}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1086/662154
+      \endverb
+    \endentry
+    \entry{fontaine2001}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=33b971293922197026ba19cacdffdd69}{%
+           family={Fontaine},
+           familyi={F\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université de la Sorbonne nouvelle - Paris III}%
+      }
+      \strng{namehash}{33b971293922197026ba19cacdffdd69}
+      \strng{fullhash}{33b971293922197026ba19cacdffdd69}
+      \strng{bibnamehash}{33b971293922197026ba19cacdffdd69}
+      \strng{authorbibnamehash}{33b971293922197026ba19cacdffdd69}
+      \strng{authornamehash}{33b971293922197026ba19cacdffdd69}
+      \strng{authorfullhash}{33b971293922197026ba19cacdffdd69}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Paroles d'échange et règles sociales chez les {{{Indiens}}} yucuna d'{Amazonie} colombienne}
+      \field{type}{Thèse de doctorat}
+      \field{urlday}{30}
+      \field{urlmonth}{12}
+      \field{urlyear}{2014}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://tel.archives-ouvertes.fr/tel-00596637/document
+      \endverb
+      \verb{url}
+      \verb https://tel.archives-ouvertes.fr/tel-00596637/document
+      \endverb
+    \endentry
+    \entry{hammarstrom_glottolog_2019}{book}{}
+      \name{author}{3}{}{%
+        {{hash=15347a08468131ff7bf0aae9d41f41f3}{%
+           family={Hammarström},
+           familyi={H\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod}}}%
+        {{hash=951238340aa8b7462747dcf6168e4cd3}{%
+           family={Forkel},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6554cfb014a9427af44c63f16722a3dd}{%
+           family={Haspelmath},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jena}%
+      }
+      \list{publisher}{1}{%
+        {Max Planck Institute for the Science of Human History}%
+      }
+      \strng{namehash}{5e4046aeabbf02b77b6c0d1fbb05aba9}
+      \strng{fullhash}{b927e6645d4c57c525b0873e0b331f03}
+      \strng{bibnamehash}{b927e6645d4c57c525b0873e0b331f03}
+      \strng{authorbibnamehash}{b927e6645d4c57c525b0873e0b331f03}
+      \strng{authornamehash}{5e4046aeabbf02b77b6c0d1fbb05aba9}
+      \strng{authorfullhash}{b927e6645d4c57c525b0873e0b331f03}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Glottolog 4.1}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://glottolog.org/
+      \endverb
+      \verb{url}
+      \verb https://glottolog.org/
+      \endverb
+    \endentry
+    \entry{Kawahara15}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=88a09c852aa8d7794974d525718d033a}{%
+           family={Kawahara},
+           familyi={K\bibinitperiod},
+           given={Shigeto},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=8fc7cc294c7a19f7808713258ca71e6d}{%
+           family={Kubozono},
+           familyi={K\bibinitperiod},
+           given={Haruo},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Mouton}%
+      }
+      \strng{namehash}{88a09c852aa8d7794974d525718d033a}
+      \strng{fullhash}{88a09c852aa8d7794974d525718d033a}
+      \strng{bibnamehash}{88a09c852aa8d7794974d525718d033a}
+      \strng{authorbibnamehash}{88a09c852aa8d7794974d525718d033a}
+      \strng{authornamehash}{88a09c852aa8d7794974d525718d033a}
+      \strng{authorfullhash}{88a09c852aa8d7794974d525718d033a}
+      \strng{editorbibnamehash}{8fc7cc294c7a19f7808713258ca71e6d}
+      \strng{editornamehash}{8fc7cc294c7a19f7808713258ca71e6d}
+      \strng{editorfullhash}{8fc7cc294c7a19f7808713258ca71e6d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of {{Japanese}} Phonetics and Phonology}
+      \field{title}{The phonology of {{Japanese}} accent}
+      \field{year}{2015}
+      \field{pages}{445\bibrangedash 492}
+      \range{pages}{48}
+      \verb{doi}
+      \verb 10.1515/9781614511984.445
+      \endverb
+    \endentry
+    \entry{lemus2016}{report}{}
+      \name{author}{1}{}{%
+        {{hash=74fe53a4aabfcd77e9f1b93369c1af46}{%
+           family={Lemus\bibnamedelima Serrano},
+           familyi={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Magdalena},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université Lumière Lyon 2}%
+      }
+      \strng{namehash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \strng{fullhash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \strng{bibnamehash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \strng{authorbibnamehash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \strng{authornamehash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \strng{authorfullhash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Observations sociolinguistiques et description phonologique du yukuna : {Langue} arawak de l'{Amazonie} colombienne}
+      \field{type}{Mémoire de {Master} 2}
+      \field{year}{2016}
+    \endentry
+    \entry{lemus2020}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=74fe53a4aabfcd77e9f1b93369c1af46}{%
+           family={Lemus\bibnamedelima Serrano},
+           familyi={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Magdalena},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université Lumière Lyon 2}%
+      }
+      \strng{namehash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \strng{fullhash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \strng{bibnamehash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \strng{authorbibnamehash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \strng{authornamehash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \strng{authorfullhash}{74fe53a4aabfcd77e9f1b93369c1af46}
+      \field{extraname}{2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pervasive nominalization in {Yukuna}, an {{Arawak}} language of {{Colombian}} {Amazonia}}
+      \field{type}{Ph.{D}. dissertation}
+      \field{year}{2020}
+    \endentry
+    \entry{lemus2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=74fe53a4aabfcd77e9f1b93369c1af46}{%
+           family={Lemus\bibnamedelima Serrano},
+           familyi={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Magdalena},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a10ac9a64c1d99fdccc3ea480637be77}{%
+           family={Allassonnière-Tang},
+           familyi={A\bibinithyphendelim T\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fda04ea79dc20e87a3b289671a150723}{%
+           family={Dediu},
+           familyi={D\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f58563e9391f1e063b2735df410b9f1e}
+      \strng{fullhash}{03d66aa8190d9d5d9a80d8bd6ed39672}
+      \strng{bibnamehash}{03d66aa8190d9d5d9a80d8bd6ed39672}
+      \strng{authorbibnamehash}{03d66aa8190d9d5d9a80d8bd6ed39672}
+      \strng{authornamehash}{f58563e9391f1e063b2735df410b9f1e}
+      \strng{authorfullhash}{03d66aa8190d9d5d9a80d8bd6ed39672}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Glossa: a journal of general linguistics}
+      \field{number}{1}
+      \field{shorttitle}{What conditions tone paradigms in {Yukuna}}
+      \field{title}{What conditions tone paradigms in {Yukuna}: {Phonological} and machine learning approaches}
+      \field{volume}{6}
+      \field{year}{2021}
+      \field{pages}{60}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.5334/gjgl.1276
+      \endverb
+    \endentry
+    \entry{payne1991}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=eac3b64a96fae433727e2ed3fb9f7069}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=78a20cb31bd928201979f70701dcd3bc}{%
+           family={Derbyshire},
+           familyi={D\bibinitperiod},
+           given={Desmond},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2925d6199ca3c6f0b208850cac579716}{%
+           family={Pullum},
+           familyi={P\bibinitperiod},
+           given={Geoffrey\bibnamedelima K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Mouton de Gruyter}%
+      }
+      \strng{namehash}{eac3b64a96fae433727e2ed3fb9f7069}
+      \strng{fullhash}{eac3b64a96fae433727e2ed3fb9f7069}
+      \strng{bibnamehash}{eac3b64a96fae433727e2ed3fb9f7069}
+      \strng{authorbibnamehash}{eac3b64a96fae433727e2ed3fb9f7069}
+      \strng{authornamehash}{eac3b64a96fae433727e2ed3fb9f7069}
+      \strng{authorfullhash}{eac3b64a96fae433727e2ed3fb9f7069}
+      \strng{editorbibnamehash}{4f7f715639455c8a61fe178a56f8ae24}
+      \strng{editornamehash}{4f7f715639455c8a61fe178a56f8ae24}
+      \strng{editorfullhash}{4f7f715639455c8a61fe178a56f8ae24}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of {{Amazonian}} languages}
+      \field{title}{A classification of {Maipuran} ({{{Arawakan}}}) languages based on shared lexical retentions}
+      \field{volume}{3}
+      \field{year}{1991}
+      \field{pages}{355\bibrangedash 499}
+      \range{pages}{145}
+    \endentry
+    \entry{ramirez2001}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6c2b18c404f701a0921e579364609aad}{%
+           family={Ramirez},
+           familyi={R\bibinitperiod},
+           given={Henri},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Manaus}%
+      }
+      \list{publisher}{1}{%
+        {Editora de Universidade do Amazonas}%
+      }
+      \strng{namehash}{6c2b18c404f701a0921e579364609aad}
+      \strng{fullhash}{6c2b18c404f701a0921e579364609aad}
+      \strng{bibnamehash}{6c2b18c404f701a0921e579364609aad}
+      \strng{authorbibnamehash}{6c2b18c404f701a0921e579364609aad}
+      \strng{authornamehash}{6c2b18c404f701a0921e579364609aad}
+      \strng{authorfullhash}{6c2b18c404f701a0921e579364609aad}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Línguas {Arawak} da Amazônia Setentrional: {{C}}omparação e Descrição}
+      \field{year}{2001}
+    \endentry
+    \entry{schauer_meke_2005}{book}{}
+      \name{author}{4}{}{%
+        {{hash=574fd2622081a132270fa8d63e496f4d}{%
+           family={Schauer},
+           familyi={S\bibinitperiod},
+           given={Junia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1ffe346e72cd9acb3116c90bc5214bf1}{%
+           family={Schauer},
+           familyi={S\bibinitperiod},
+           given={Stanley},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f3d9925c4bf8106423098c8076c99d43}{%
+           family={Yukuna},
+           familyi={Y\bibinitperiod},
+           given={Eladio},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1130cca98e9620fc3a9ba9991e109dab}{%
+           family={Yukuna},
+           familyi={Y\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bogotá}%
+      }
+      \list{publisher}{1}{%
+        {Fundación para el Desarrollo de los Pueblos Marginados}%
+      }
+      \strng{namehash}{a0921a978090e57cc8138ca899950250}
+      \strng{fullhash}{9837962c04e20a59dcadc1333f6e3a7c}
+      \strng{bibnamehash}{9837962c04e20a59dcadc1333f6e3a7c}
+      \strng{authorbibnamehash}{9837962c04e20a59dcadc1333f6e3a7c}
+      \strng{authornamehash}{a0921a978090e57cc8138ca899950250}
+      \strng{authorfullhash}{9837962c04e20a59dcadc1333f6e3a7c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Meke kemakánaka puráka'aloji: {{W}}apura'akó chu, eyá karíwana chu}
+      \field{year}{2005}
+    \endentry
+    \entry{tallmancoincidence:2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6dbcf7bdae7a587571aa7a2d3e520f87}{%
+           family={Tallman},
+           familyi={T\bibinitperiod},
+           given={Adam\bibnamedelimb J.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{fullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{bibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorbibnamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authornamehash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \strng{authorfullhash}{6dbcf7bdae7a587571aa7a2d3e520f87}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Language}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Constituency and coincidence in {C}hácobo ({P}ano)}
+      \field{volume}{45}
+      \field{year}{2021}
+      \field{pages}{321\bibrangedash 383}
+      \range{pages}{63}
+      \verb{doi}
+      \verb 10.1075/sl.19025.tal
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
