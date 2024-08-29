@@ -1,8 +1,4 @@
-{"versions": [{"versiontype": "proofreading",
-		"title": "Constituency and convergence in the Americas",
-		"authors": [{"name": "Adam J.R. Tallman"},{"name":" Sandra Auderset"},{"name":" Hiroto Uchihara"}],
-	"license": "CC-BY-4.0",
-	"publishedAt": "2023-11-03T08:21:52.000Z"},
+{"versions": [{
 	{"versiontype": "proofreading2",
 		"title": "Constituency and convergence in the Americas",
 		"authors": [{"name": "Adam J.R. Tallman"},{"name":" Sandra Auderset"},{"name":" Hiroto Uchihara"}],
@@ -13,7 +9,7 @@
 		"authors": [{"name": "Adam J.R. Tallman"},{"name":" Sandra Auderset"},{"name":" Hiroto Uchihara"}],
 	"license": "CC-BY-4.0",
 	"publishedAt": "2023-11-03T08:21:52.000Z"},
-	{"versiontype": "proofreading2",
+	{"versiontype": "first_edition",
 		"title": "Constituency and convergence in the Americas",
 		"authors": [{"name": "Adam J.R. Tallman"},{"name":" Sandra Auderset"},{"name":" Hiroto Uchihara"}],
 	"license": "CC-BY-4.0",
